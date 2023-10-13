@@ -1,0 +1,8 @@
+var_int : integer =20;
+var_string : string = "Lorem";
+var_fload : floaf = 5.5;
+var_bool : bool = true;
+
+def func ( a : integer, b : string ) {
+    print ( a , b );
+}
